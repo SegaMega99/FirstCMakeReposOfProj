@@ -1,0 +1,11 @@
+# ninja log v5
+15	1235	7025970527945980	CMakeFiles/CMakeProjlectDZ.dir/CMakeProjectDZ/src/read.cpp.obj	29a14f0da94b7c6d
+10	1239	7025970527975977	CMakeFiles/CMakeProjlectDZ.dir/CMakeProjectDZ/src/print.cpp.obj	693eb95f0e7cade7
+4	16	0	clean	8c45b54705a541e8
+18	2278	7026012151405243	CMakeProjectDZ/CMakeFiles/CMake_ProjectDZ.dir/src/print.cpp.obj	351d13538faa4b5d
+3	1244	7025970528035947	CMakeFiles/CMakeProjectDZ.dir/main.cpp.obj	ccfa4382711e429c
+1239	1614	7025970527975977	CMakeProjlectDZ.dll	b3ec5a6752ef6946
+18	2275	7026009877273052	CMakeFiles/ProjSort.dir/main.cpp.obj	460c937a1b243376
+24	2281	7026012151435231	CMakeProjectDZ/CMakeFiles/CMake_ProjectDZ.dir/src/read.cpp.obj	e1d9eee6ce803442
+2281	2346	7026012152045275	CMakeProjectDZ/CMake_ProjectDZ.lib	52ac8f657c01003d
+2346	2595	7026012153964618	ProjSort.exe	e2c798996d5ada8b

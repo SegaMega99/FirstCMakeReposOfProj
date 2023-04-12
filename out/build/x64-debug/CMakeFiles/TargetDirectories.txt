@@ -1,0 +1,6 @@
+C:/Users/admin/source/repos/CMakeProjectDZ/out/build/x64-debug/CMakeFiles/ProjSort.dir
+C:/Users/admin/source/repos/CMakeProjectDZ/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/source/repos/CMakeProjectDZ/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/source/repos/CMakeProjectDZ/out/build/x64-debug/CMakeProjectDZ/CMakeFiles/CMake_ProjectDZ.dir
+C:/Users/admin/source/repos/CMakeProjectDZ/out/build/x64-debug/CMakeProjectDZ/CMakeFiles/edit_cache.dir
+C:/Users/admin/source/repos/CMakeProjectDZ/out/build/x64-debug/CMakeProjectDZ/CMakeFiles/rebuild_cache.dir
